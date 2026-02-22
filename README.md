@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nurjamal Mondol
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with experience in modern web technologies and animation libraries.
+Welcome to my GitHub profile! I'm a passionate **Frontend & Wordpress Theme Developer** with experience in modern web technologies and animation libraries.
 
 ---
 
