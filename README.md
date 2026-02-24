@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend & Wordpress Theme Deve
 
 ## 🛠️ My Skills
 
-### **Frontend Development**
 - **HTML5** ✅
 - **CSS3 / SCSS** 🎨
 - **JavaScript (ES6+)** 💻
